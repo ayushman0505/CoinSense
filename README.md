@@ -39,5 +39,5 @@ Click the link above to try out CoinSense without installing anything!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coinsense.git
+   git clone https://github.com/ayushman0505/coinsense.git
    cd coinsense
