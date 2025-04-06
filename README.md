@@ -1,4 +1,4 @@
-# Modern Expense Tracker
+# CoinSense
 
 A comprehensive financial management application built with Next.js, MongoDB, and AI-powered insights.
 
