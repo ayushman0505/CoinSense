@@ -1,6 +1,10 @@
-# CoinSense
+# CoinSense - Modern Expense Tracker
 
 A comprehensive financial management application built with Next.js, MongoDB, and AI-powered insights.
+
+## 🚀 [Try CoinSense Live](https://v0-modern-expense-tracker-ckkjmf.vercel.app/)
+
+Click the link above to try out CoinSense without installing anything!
 
 ## Features
 
@@ -35,6 +39,5 @@ A comprehensive financial management application built with Next.js, MongoDB, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/modern-expense-tracker.git
-   cd modern-expense-tracker
-
+   git clone https://github.com/yourusername/coinsense.git
+   cd coinsense
